@@ -1,0 +1,32 @@
+{
+  "name": "gulp-ng-templatecache",
+  "version": "0.0.1",
+  "description": "Gulp plugin that pre-loads HTML templates in $templateCache",
+  "keywords": [
+    "gulpplugin",
+    "angular",
+    "angularjs",
+    "templatecache"
+  ],
+  "homepage": "https://github.com/lukescott/gulp-ng-templatecache",
+  "bugs": "https://github.com/lukescott/gulp-ng-templatecache/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Luke Scott",
+    "url": "https://github.com/lukescott"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukescott/gulp-ng-templatecache"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "js-string-escape": "^1.0.0",
+    "map-stream": "^0.1.0"
+  },
+  "devDependencies": {}
+}
